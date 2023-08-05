@@ -1,4 +1,4 @@
-import logo from "./images/logo.png";
+import praveens from "./images/praveens.png";
 import bannerImg from "./images/bannerImg.png";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
@@ -7,10 +7,12 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
+import praveen from "./images/testmonial/praveencut.jpg";
+import praveenlogo from "./images/testmonial/praveenlogo.jpg";
 
 export {
-  logo,
-  bannerImg,
+  praveens,
+  praveenlogo,
   projectOne,
   projectTwo,
   projectThree,
