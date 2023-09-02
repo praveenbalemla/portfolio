@@ -9,6 +9,9 @@ import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 import praveen from "./images/testmonial/praveencut.jpg";
 import praveenlogo from "./images/testmonial/praveenlogo.jpg";
+import cexchange from "./images/projects/cexchange.jpg";
+import food from "./images/projects/food.jpg"
+import player from "./images/projects/player.jpg"
 
 export {
   praveens,
@@ -16,6 +19,9 @@ export {
   projectOne,
   projectTwo,
   projectThree,
+  cexchange,
+  food,
+  player,
   testimonialOne,
   testimonialTwo,
   quote,

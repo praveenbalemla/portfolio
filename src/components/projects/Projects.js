@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, cexchange, food, player } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -19,12 +19,12 @@ const Projects = () => {
         <ProjectsCard
           title="PLAYER MANAGEMENT USING REST-API's"
           des="Performing various rest api operations through springboot application, Like create read update delete calls "
-          src={projectOne}
+          src={player}
         />
         <ProjectsCard
-          title="USER MANAGEMENT USING 
+          title="STUDENT REGISTRATION FORM USING 
           ADVANCED JAVA"
-          des="Register the user and validate the user while login
+          des="Register the student and validate the user while login
           Reset the password based on email accessing the list of users present in the database"
           src={projectTwo}
         />
@@ -32,7 +32,12 @@ const Projects = () => {
           title="FOOD COURT"
           des="The main outcome of this project is to there exists a list of items whenever user want order specific item then it is 
           added to the cart"
-          src={projectThree}
+          src={food}
+        />
+        <ProjectsCard
+          title="CURRENCY EXCHANGE"
+          des="The project main idea is to exchange currency value from one country to another country through microservices"
+          src={cexchange}
         />
 
         

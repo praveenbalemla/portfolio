@@ -7,10 +7,12 @@ import FooterBottom from "./components/footer/FooterBottom";
 import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
+import {HashRouter} from "react-router-dom";
 
 
 function App() {
   return (
+    <HashRouter>
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
         <Navbar />
         
@@ -25,6 +27,7 @@ function App() {
         <FooterBottom />
       </div>
     </div>
+    </HashRouter>
   );
 }
 
