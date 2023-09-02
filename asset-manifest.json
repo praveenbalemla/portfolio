@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/praveenbalemla/portfolio.git/static/css/main.83b92e07.css",
-    "main.js": "/praveenbalemla/portfolio.git/static/js/main.cb48f621.js",
-    "static/media/praveencut.jpg": "/praveenbalemla/portfolio.git/static/media/praveencut.08ae659f1bee2ed91f32.jpg",
-    "static/media/bannerImg.png": "/praveenbalemla/portfolio.git/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
-    "static/media/praveenlogo.jpg": "/praveenbalemla/portfolio.git/static/media/praveenlogo.b5cec11b9b2752a92e77.jpg",
-    "static/media/contactImg.png": "/praveenbalemla/portfolio.git/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "static/media/testimonialOne.png": "/praveenbalemla/portfolio.git/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectThree.jpeg": "/praveenbalemla/portfolio.git/static/media/projectThree.47442baa3158613330ab.jpeg",
-    "static/media/testimonialTwo.png": "/praveenbalemla/portfolio.git/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/praveenbalemla/portfolio.git/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
-    "index.html": "/praveenbalemla/portfolio.git/index.html",
-    "main.83b92e07.css.map": "/praveenbalemla/portfolio.git/static/css/main.83b92e07.css.map",
-    "main.cb48f621.js.map": "/praveenbalemla/portfolio.git/static/js/main.cb48f621.js.map"
+    "main.css": "/static/css/main.83b92e07.css",
+    "main.js": "/static/js/main.572e90cd.js",
+    "static/media/player.jpg": "/static/media/player.db52793f651a7fd625d7.jpg",
+    "static/media/cexchange.jpg": "/static/media/cexchange.1c94a01cbdad8fbdb99f.jpg",
+    "static/media/praveencut.jpg": "/static/media/praveencut.08ae659f1bee2ed91f32.jpg",
+    "static/media/bannerImg.png": "/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/food.jpg": "/static/media/food.a35b46aeb5ce4d901222.jpg",
+    "static/media/praveenlogo.jpg": "/static/media/praveenlogo.b5cec11b9b2752a92e77.jpg",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/index.html",
+    "main.83b92e07.css.map": "/static/css/main.83b92e07.css.map",
+    "main.572e90cd.js.map": "/static/js/main.572e90cd.js.map"
   },
   "entrypoints": [
     "static/css/main.83b92e07.css",
-    "static/js/main.cb48f621.js"
+    "static/js/main.572e90cd.js"
   ]
 }
